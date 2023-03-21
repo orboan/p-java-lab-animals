@@ -1,2 +1,8 @@
-# codespaces-entorn-dev
-## entorn dev for codespaces
+# Java POO - Lab animals
+## Introducció a POO
+
+- Abstracció
+- Encapsulació
+- Herència
+- Interfícies
+- Polimorfisme
